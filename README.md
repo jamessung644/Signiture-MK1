@@ -16,3 +16,9 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 !pip install mediapipe
 !pip install numpy
 ```
+
+## 시연영상
+With Arduino 
+
+https://github.com/jamessung644/Signiture-MK1/assets/39661528/2ac7d80f-6d38-4282-86b8-d826c154cf70
+
