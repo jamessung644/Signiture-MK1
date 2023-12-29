@@ -22,3 +22,8 @@ With Arduino
 
 https://github.com/jamessung644/Signiture-MK1/assets/39661528/2ac7d80f-6d38-4282-86b8-d826c154cf70
 
+# App inventor UI
+  ![KakaoTalk_Photo_2023-12-29-12-54-04 002png](https://github.com/jamessung644/Signiture-MK1/assets/39661528/2fb8cdd0-254c-4823-978f-b519d503bc22)
+  ![KakaoTalk_Photo_2023-12-29-12-54-04 001png](https://github.com/jamessung644/Signiture-MK1/assets/39661528/66273a66-8472-4810-bde9-c5fd5de0a004)
+  ![KakaoTalk_Photo_2023-12-29-12-54-07 003png](https://github.com/jamessung644/Signiture-MK1/assets/39661528/ec016198-3e85-45b2-a699-d53e4d565c2d)
+  ![KakaoTalk_Photo_2023-12-29-12-54-08 004png](https://github.com/jamessung644/Signiture-MK1/assets/39661528/5c0995d4-4258-4105-94c1-2ef4c01475e7)
