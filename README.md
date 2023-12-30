@@ -37,41 +37,11 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 
 
 ## Profile
-<div style="display: flex;">
-  <!-- 성수한 프로필 -->
-  <div style="flex: 50%; padding-right: 10px;">
-    <table>
-      <tr>
-        <th>성수한</th>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://github.com/jamessung644/Signiture-MK1/assets/39661528/fd00379c-ddeb-459a-8376-bb3e4a03fc33" width="280" height="360"/>
-        </td>
-      </tr>
-      <tr>
-        <td>강원대학교 A.I융합학과 학부생 <br>Open CV 활용한 이미지 분석 알고리즘 개발, 3D 프린팅 등 <br><br> <strong>GitHub</strong>: <a href="https://github.com/jamessung644">jamessung644</a> <br> <strong>웹사이트</strong>: <a href="https://portfol2o.vercel.app">portfol2o.vercel.app</a> <br> <strong>Instagram</strong>: <a href="https://www.instagram.com/hhash_suhan/">hhash_suhan</a></td>
-      </tr>
-    </table>
-  </div>
+| 성수한 | 백승엽 |
+|---|---|
+| <img src="https://github.com/jamessung644/Signiture-MK1/assets/39661528/fd00379c-ddeb-459a-8376-bb3e4a03fc33" width="280" height="360"/> | <img src="백승엽의 이미지 URL" width="280" height="360"/> |
+| 강원대학교 A.I융합학과 학부생 <br>Open CV 활용한 이미지 분석 알고리즘 개발, 3D 프린팅 등 <br><br> **GitHub**: [jamessung644](https://github.com/jamessung644) <br> **웹사이트**: [portfol2o.vercel.app](https://portfol2o.vercel.app) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/hhash_suhan/) | 강원대학교 컴퓨터공학과 학부생 <br>앱 개발,회로 설계, 아두이노 개발 |
 
-  <!-- 백승엽 프로필 -->
-  <div style="flex: 50%;">
-    <table>
-      <tr>
-        <th>백승엽</th>
-      </tr>
-      <tr>
-        <td>
-          <img src="백승엽의 이미지 URL" width="280" height="360"/>
-        </td>
-      </tr>
-      <tr>
-        <td>강원대학교 컴퓨터공학과 학부생 <br>앱 개발, 회로 설계, 아두이노 개발</td>
-      </tr>
-    </table>
-  </div>
-</div>
 
 
 
