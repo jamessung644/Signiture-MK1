@@ -40,7 +40,8 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 
 성수한 | 강원대학교 A.I융합학고 학부생 
 --- | ---
-![성수한](https://github.com/jamessung644/Signiture-MK1/assets/39661528/fd00379c-ddeb-459a-8376-bb3e4a03fc33) | **GitHub**: [jamessung644](https://github.com/jamessung644) <br> **웹사이트**: [portfol2o.vercel.app](https://portfol2o.vercel.app) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/hhash_suhan/)
+<img src="https://github.com/jamessung644/Signiture-MK1/assets/39661528/fd00379c-ddeb-459a-8376-bb3e4a03fc33" width="200" height="200"/> | **GitHub**: [jamessung644](https://github.com/jamessung644) <br> **웹사이트**: [portfol2o.vercel.app](https://portfol2o.vercel.app) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/hhash_suhan/)
+
 
 
 
