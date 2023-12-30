@@ -38,8 +38,8 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 
 ## Profile
 <div style="display: flex;">
-  <div style="flex: 50%;">
-    <!-- First Table -->
+  <!-- 성수한 프로필 -->
+  <div style="flex: 50%; padding-right: 10px;">
     <table>
       <tr>
         <th>성수한</th>
@@ -50,12 +50,13 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
         </td>
       </tr>
       <tr>
-        <td>강원대학교 A.I융합학과 학부생 <br>Open CV 활용한 이미지 분석<br> 알고리즘 개발, 3D 프린팅 등 <br><br> <strong>GitHub</strong>: <a href="https://github.com/jamessung644">jamessung644</a> <br> <strong>웹사이트</strong>: <a href="https://portfol2o.vercel.app">portfol2o.vercel.app</a> <br> <strong>Instagram</strong>: <a href="https://www.instagram.com/hhash_suhan/">hhash_suhan</a></td>
+        <td>강원대학교 A.I융합학과 학부생 <br>Open CV 활용한 이미지 분석 알고리즘 개발, 3D 프린팅 등 <br><br> <strong>GitHub</strong>: <a href="https://github.com/jamessung644">jamessung644</a> <br> <strong>웹사이트</strong>: <a href="https://portfol2o.vercel.app">portfol2o.vercel.app</a> <br> <strong>Instagram</strong>: <a href="https://www.instagram.com/hhash_suhan/">hhash_suhan</a></td>
       </tr>
     </table>
   </div>
+
+  <!-- 백승엽 프로필 -->
   <div style="flex: 50%;">
-    <!-- Second Table -->
     <table>
       <tr>
         <th>백승엽</th>
