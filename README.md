@@ -42,6 +42,9 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 --- | ---
 <img src="https://github.com/jamessung644/Signiture-MK1/assets/39661528/fd00379c-ddeb-459a-8376-bb3e4a03fc33" width="280" height="360"/> | Open CV 활용한<br>이미지 분석 알고리즘 개발,<br>3D 프린팅 등 <br><br> **GitHub**: [jamessung644](https://github.com/jamessung644) <br> **웹사이트**: [portfol2o.vercel.app](https://portfol2o.vercel.app) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/hhash_suhan/)
 
+백승엽 | 강원대학교 컴퓨터공학과 학부생 
+--- | ---
+<img src="" width="280" height="360"/> | 앱 개발,회로 설계,<br>아두이노 개발
 
 
 
