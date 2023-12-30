@@ -38,7 +38,7 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 
 ## Profile
 | 성수한 | 백승엽 | 이현형 | 김래원 |
-|---|---|
+|---|---|---|---|
 | <img src="https://github.com/jamessung644/Signiture-MK1/assets/39661528/fd00379c-ddeb-459a-8376-bb3e4a03fc33" width="280" height="360"/> | <img src="백승엽의 이미지 URL" width="280" height="360"/> | <img src="이현형의 이미지 URL" width="280" height="360"/> | <img src="김래원의 이미지 URL" width="280" height="360"/> |
 | 강원대학교 A.I융합학과 학부생<br> <br>Open CV 활용한 이미지 분석<br> 알고리즘 개발, 3D 프린팅 등 <br><br> **GitHub**: [jamessung644](https://github.com/jamessung644) <br> **웹사이트**: [portfol2o.vercel.app](https://portfol2o.vercel.app) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/hhash_suhan/) | 강원대학교 컴퓨터공학과 학부생 <br>앱 개발,회로 설계, 아두이노 개발 | 강원대학교 인더스트리얼디자인전공 학부성 <br> 3D 모델링, 앱 디자인,<br> 발표 자료 <br><br> **Instagram**: [2hyun_bro.go.kr](https://www.instagram.com/2hyun_bro.go.kr/) | 강원대학교 메카트로닉스전공 학부성 <br> 앱 개발, 회로 설계,<br> 아두이노 개발 <br><br> **Instagram**: [gimraeweon31](https://www.instagram.com/gimraeweon31/)
 
