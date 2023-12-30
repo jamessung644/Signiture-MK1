@@ -29,10 +29,11 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 
 # App inventor UI
 
-|   |   |
+|UI|UI|
 |------|---|
-|![UI 1](https://github.com/jamessung644/Signiture-MK1/assets/39661528/2fb8cdd0-254c-4823-978f-b519d503bc22)|
-![UI 2](https://github.com/jamessung644/Signiture-MK1/assets/39661528/66273a66-8472-4810-bde9-c5fd5de0a004)|
-|![UI 3](https://github.com/jamessung644/Signiture-MK1/assets/39661528/ec016198-3e85-45b2-a699-d53e4d565c2d)
-![UI 4](https://github.com/jamessung644/Signiture-MK1/assets/39661528/5c0995d4-4258-4105-94c1-2ef4c01475e7)|
+|<img src="[https://github.com/jamessung644/Signiture-MK1/assets/39661528/2fb8cdd0-254c-4823-978f-b519d503bc22]" width="200" height="200"/>
+|<img src="[https://github.com/jamessung644/Signiture-MK1/assets/39661528/66273a66-8472-4810-bde9-c5fd5de0a004]" width="200" height="200"/>|
+|<img src="[https://github.com/jamessung644/Signiture-MK1/assets/39661528/ec016198-3e85-45b2-a699-d53e4d565c2d]" width="200" height="200"/>
+|<img src="[https://github.com/jamessung644/Signiture-MK1/assets/39661528/5c0995d4-4258-4105-94c1-2ef4c01475e7]" width="200" height="200"/>|
+
 
