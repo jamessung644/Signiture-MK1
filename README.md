@@ -28,9 +28,10 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 ```
 
 # App inventor UI
-<img src="[https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI1.png]" width="300" height="300"/>
-<img src="[https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI2.png]" width="300" height="300"/>
-<img src="[https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI3.png]" width="300" height="300"/>
-<img src="[https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI4.png]" width="300" height="300"/>
+| | |
+|---|---|
+| ![UI 1](https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI1.png) | ![UI 2](https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI2.png) |
+| ![UI 3](https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI3.png) | ![UI 4](https://github.com/jamessung644/Signiture-MK1/blob/main/img/UI4.png) |
+
 
 
