@@ -12,7 +12,7 @@ Python 코드는 MediaPipe 라이브러리를 사용하여 실시간으로 웹�
 [Takeaway](https://github.com/jamessung644/Signiture-MK1/blob/main/UNIHAND%201Page본.pdf)  
 [PPT](https://github.com/jamessung644/Signiture-MK1/blob/main/UNIHAND%20PPT%20자료%20김래원%2C%20백승엽%2C%20이현형%2C%20성수한.pdf)  
 [Demo Video](https://youtu.be/KIa77oBFC2w)  
-
+[Website](https://m.site.naver.com/1hFPm)
 
 ## Development Environment
 * MacBook AIR M2 8gb ram
